@@ -1,33 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Haruncan Atalı\\Desktop\\LibraryApp\\LibraryApp.DataAccess\\LibraryApp.DataAccess.csproj": {}
+    "/Users/haruncanatali/Desktop/Projects/VKFW4/LibraryApp.DataAccess/LibraryApp.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Haruncan Atalı\\Desktop\\LibraryApp\\LibraryApp.DataAccess\\LibraryApp.DataAccess.csproj": {
+    "/Users/haruncanatali/Desktop/Projects/VKFW4/LibraryApp.DataAccess/LibraryApp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Haruncan Atalı\\Desktop\\LibraryApp\\LibraryApp.DataAccess\\LibraryApp.DataAccess.csproj",
+        "projectUniqueName": "/Users/haruncanatali/Desktop/Projects/VKFW4/LibraryApp.DataAccess/LibraryApp.DataAccess.csproj",
         "projectName": "LibraryApp.DataAccess",
-        "projectPath": "C:\\Users\\Haruncan Atalı\\Desktop\\LibraryApp\\LibraryApp.DataAccess\\LibraryApp.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Haruncan Atalı\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Haruncan Atalı\\Desktop\\LibraryApp\\LibraryApp.DataAccess\\obj\\",
+        "projectPath": "/Users/haruncanatali/Desktop/Projects/VKFW4/LibraryApp.DataAccess/LibraryApp.DataAccess.csproj",
+        "packagesPath": "/Users/haruncanatali/.nuget/packages/",
+        "outputPath": "/Users/haruncanatali/Desktop/Projects/VKFW4/LibraryApp.DataAccess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Haruncan Atalı\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/haruncanatali/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Haruncan Atalı\\Desktop\\LibraryApp\\LibraryApp.Entities\\LibraryApp.Entities.csproj": {
-                "projectPath": "C:\\Users\\Haruncan Atalı\\Desktop\\LibraryApp\\LibraryApp.Entities\\LibraryApp.Entities.csproj"
+              "/Users/haruncanatali/Desktop/Projects/VKFW4/LibraryApp.Entities/LibraryApp.Entities.csproj": {
+                "projectPath": "/Users/haruncanatali/Desktop/Projects/VKFW4/LibraryApp.Entities/LibraryApp.Entities.csproj"
               }
             }
           }
@@ -89,26 +90,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.305/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Haruncan Atalı\\Desktop\\LibraryApp\\LibraryApp.Entities\\LibraryApp.Entities.csproj": {
+    "/Users/haruncanatali/Desktop/Projects/VKFW4/LibraryApp.Entities/LibraryApp.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Haruncan Atalı\\Desktop\\LibraryApp\\LibraryApp.Entities\\LibraryApp.Entities.csproj",
+        "projectUniqueName": "/Users/haruncanatali/Desktop/Projects/VKFW4/LibraryApp.Entities/LibraryApp.Entities.csproj",
         "projectName": "LibraryApp.Entities",
-        "projectPath": "C:\\Users\\Haruncan Atalı\\Desktop\\LibraryApp\\LibraryApp.Entities\\LibraryApp.Entities.csproj",
-        "packagesPath": "C:\\Users\\Haruncan Atalı\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Haruncan Atalı\\Desktop\\LibraryApp\\LibraryApp.Entities\\obj\\",
+        "projectPath": "/Users/haruncanatali/Desktop/Projects/VKFW4/LibraryApp.Entities/LibraryApp.Entities.csproj",
+        "packagesPath": "/Users/haruncanatali/.nuget/packages/",
+        "outputPath": "/Users/haruncanatali/Desktop/Projects/VKFW4/LibraryApp.Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Haruncan Atalı\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/haruncanatali/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -148,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.305/RuntimeIdentifierGraph.json"
         }
       }
     }
