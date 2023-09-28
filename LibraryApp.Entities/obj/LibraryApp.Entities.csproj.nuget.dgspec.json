@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Haruncan Atalı\\Desktop\\LibraryApp\\LibraryApp.Entities\\LibraryApp.Entities.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Haruncan Atalı\\Desktop\\LibraryApp\\LibraryApp.Entities\\LibraryApp.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Haruncan Atalı\\Desktop\\LibraryApp\\LibraryApp.Entities\\LibraryApp.Entities.csproj",
+        "projectName": "LibraryApp.Entities",
+        "projectPath": "C:\\Users\\Haruncan Atalı\\Desktop\\LibraryApp\\LibraryApp.Entities\\LibraryApp.Entities.csproj",
+        "packagesPath": "C:\\Users\\Haruncan Atalı\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Haruncan Atalı\\Desktop\\LibraryApp\\LibraryApp.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Haruncan Atalı\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
